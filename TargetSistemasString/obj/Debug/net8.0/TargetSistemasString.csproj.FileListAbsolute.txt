@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\TargetSistemasString\bin\Debug\net8.0\TargetSistemasString.exe
+C:\Users\danie\source\repos\TargetSistemasString\bin\Debug\net8.0\TargetSistemasString.deps.json
+C:\Users\danie\source\repos\TargetSistemasString\bin\Debug\net8.0\TargetSistemasString.runtimeconfig.json
+C:\Users\danie\source\repos\TargetSistemasString\bin\Debug\net8.0\TargetSistemasString.dll
+C:\Users\danie\source\repos\TargetSistemasString\bin\Debug\net8.0\TargetSistemasString.pdb
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.AssemblyInfo.cs
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.dll
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\refint\TargetSistemasString.dll
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.pdb
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\TargetSistemasString.genruntimeconfig.cache
+C:\Users\danie\source\repos\TargetSistemasString\obj\Debug\net8.0\ref\TargetSistemasString.dll

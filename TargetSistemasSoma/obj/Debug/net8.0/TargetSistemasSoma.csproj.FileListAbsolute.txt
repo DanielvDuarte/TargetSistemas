@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\TargetSistemasSoma\bin\Debug\net8.0\TargetSistemasSoma.exe
+C:\Users\danie\source\repos\TargetSistemasSoma\bin\Debug\net8.0\TargetSistemasSoma.deps.json
+C:\Users\danie\source\repos\TargetSistemasSoma\bin\Debug\net8.0\TargetSistemasSoma.runtimeconfig.json
+C:\Users\danie\source\repos\TargetSistemasSoma\bin\Debug\net8.0\TargetSistemasSoma.dll
+C:\Users\danie\source\repos\TargetSistemasSoma\bin\Debug\net8.0\TargetSistemasSoma.pdb
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.AssemblyInfo.cs
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.dll
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\refint\TargetSistemasSoma.dll
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.pdb
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\TargetSistemasSoma.genruntimeconfig.cache
+C:\Users\danie\source\repos\TargetSistemasSoma\obj\Debug\net8.0\ref\TargetSistemasSoma.dll

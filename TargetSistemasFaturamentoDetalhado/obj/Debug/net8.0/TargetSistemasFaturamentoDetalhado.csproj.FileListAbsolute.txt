@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\bin\Debug\net8.0\TargetSistemasFaturamentoDetalhado.exe
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\bin\Debug\net8.0\TargetSistemasFaturamentoDetalhado.deps.json
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\bin\Debug\net8.0\TargetSistemasFaturamentoDetalhado.runtimeconfig.json
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\bin\Debug\net8.0\TargetSistemasFaturamentoDetalhado.dll
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\bin\Debug\net8.0\TargetSistemasFaturamentoDetalhado.pdb
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.AssemblyInfo.cs
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.dll
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\refint\TargetSistemasFaturamentoDetalhado.dll
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.pdb
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\TargetSistemasFaturamentoDetalhado.genruntimeconfig.cache
+C:\Users\danie\source\repos\TargetSistemasFaturamentoDetalhado\obj\Debug\net8.0\ref\TargetSistemasFaturamentoDetalhado.dll

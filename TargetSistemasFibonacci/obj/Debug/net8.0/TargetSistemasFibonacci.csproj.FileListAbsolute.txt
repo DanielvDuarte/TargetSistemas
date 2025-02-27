@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\TargetSistemasFibonacci\bin\Debug\net8.0\TargetSistemasFibonacci.exe
+C:\Users\danie\source\repos\TargetSistemasFibonacci\bin\Debug\net8.0\TargetSistemasFibonacci.deps.json
+C:\Users\danie\source\repos\TargetSistemasFibonacci\bin\Debug\net8.0\TargetSistemasFibonacci.runtimeconfig.json
+C:\Users\danie\source\repos\TargetSistemasFibonacci\bin\Debug\net8.0\TargetSistemasFibonacci.dll
+C:\Users\danie\source\repos\TargetSistemasFibonacci\bin\Debug\net8.0\TargetSistemasFibonacci.pdb
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.AssemblyInfo.cs
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.dll
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\refint\TargetSistemasFibonacci.dll
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.pdb
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\TargetSistemasFibonacci.genruntimeconfig.cache
+C:\Users\danie\source\repos\TargetSistemasFibonacci\obj\Debug\net8.0\ref\TargetSistemasFibonacci.dll
